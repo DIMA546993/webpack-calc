@@ -1,6 +1,6 @@
-export function print(data) {
-    // console.log(data);
-}
+// export function print(data) {
+//     console.log(data);
+// }
 
 export function setAlert(data) {
     alert(data);
