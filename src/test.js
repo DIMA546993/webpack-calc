@@ -1,5 +1,5 @@
 export function print(data) {
-    console.log(data);
+    // console.log(data);
 }
 
 export function setAlert(data) {
